@@ -2,7 +2,7 @@ public class Klasa{
 	public int suma(){
 		int rezultat = 0;
 		for(int i = 1; i<=10; i++){
-			rezultat = i;
+			rezultat =+ i;
 		}
 		return rezultat;
 	}
